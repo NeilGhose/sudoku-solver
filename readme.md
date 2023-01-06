@@ -1,15 +1,16 @@
-# Pool Simulator (WIP)
-Simulates the game of pool using python
+# Sudoku Solver
+Solves sudoku puzzles using backtracking
 
 ## Installation
 ```
-# git clone https://github.com/NeilGhose/pool.git
+# git clone https://github.com/NeilGhose/sudoku-solver.git
 # pip3 install pygame
 ```
 
 ## Setup
+To change the board, edit sudoku.py and edit the array
 
-3. Launch Program
+Launch Program
 ```
-# python3 pool.py
+# python3 solver.py
 ```
